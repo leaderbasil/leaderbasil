@@ -3,10 +3,11 @@
 <img src="hero.svg" width="100%" alt="Basil Hazem Ayyad, Backend, AI Agents, ERP Systems" />
 
 <br>
+<br>
 
 <a href="https://linkedin.com/in/basilhazemayyad"><img src="https://img.shields.io/badge/LinkedIn-Connect-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:leaderbasil@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://polarisx.obsidianlabs.space/"><img src="https://img.shields.io/badge/PolarisX-Explore-0a2150?style=for-the-badge&logo=rocket&logoColor=white" alt="PolarisX" /></a>
+
 
 <img src="divider.svg" width="100%" alt="" />
 
@@ -35,13 +36,6 @@
 
 <img src="https://skillicons.dev/icons?i=py,js,ts,dart,cpp,go,fastapi,react,electron,flutter,postgres,mysql,git,postman&perline=14" alt="Languages, frameworks, databases and tools" />
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Sanic-0a1228?style=for-the-badge" alt="Sanic" />
-<img src="https://img.shields.io/badge/SQLAlchemy-0a1228?style=for-the-badge&logo=sqlalchemy&logoColor=1E90FF" alt="SQLAlchemy" />
-<img src="https://img.shields.io/badge/OpenAPI-0a1228?style=for-the-badge&logo=openapiinitiative&logoColor=1E90FF" alt="OpenAPI" />
-<img src="https://img.shields.io/badge/Insomnia-0a1228?style=for-the-badge&logo=insomnia&logoColor=1E90FF" alt="Insomnia" />
-<img src="https://img.shields.io/badge/JWT-0a1228?style=for-the-badge&logo=jsonwebtokens&logoColor=1E90FF" alt="JWT" />
 
 <br><br>
 
