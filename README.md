@@ -33,7 +33,22 @@
 
 <h2>Tools I work with</h2>
 
-<img src="stack.svg" width="80%" alt="Languages, backend, clients, data, and tooling" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,dart,cpp,go,fastapi,react,electron,flutter,postgres,mysql,git,postman&perline=14" alt="Languages, frameworks, databases and tools" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Sanic-0a1228?style=for-the-badge" alt="Sanic" />
+<img src="https://img.shields.io/badge/SQLAlchemy-0a1228?style=for-the-badge&logo=sqlalchemy&logoColor=1E90FF" alt="SQLAlchemy" />
+<img src="https://img.shields.io/badge/OpenAPI-0a1228?style=for-the-badge&logo=openapiinitiative&logoColor=1E90FF" alt="OpenAPI" />
+<img src="https://img.shields.io/badge/Insomnia-0a1228?style=for-the-badge&logo=insomnia&logoColor=1E90FF" alt="Insomnia" />
+<img src="https://img.shields.io/badge/JWT-0a1228?style=for-the-badge&logo=jsonwebtokens&logoColor=1E90FF" alt="JWT" />
+
+<br><br>
+
+<b>Exploring next</b>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet&perline=2" alt="C# and .NET" />
+<img src="https://img.shields.io/badge/Echo-0a1228?style=for-the-badge" alt="Echo" />
 
 <br><br>
 
