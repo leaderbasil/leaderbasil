@@ -36,14 +36,6 @@
 
 <img src="https://skillicons.dev/icons?i=py,js,ts,dart,cpp,go,fastapi,react,electron,flutter,postgres,mysql,git,postman&perline=14" alt="Languages, frameworks, databases and tools" />
 
-
-<br><br>
-
-<b>Exploring next</b>
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet&perline=2" alt="C# and .NET" />
-<img src="https://img.shields.io/badge/Echo-0a1228?style=for-the-badge" alt="Echo" />
-
 <br><br>
 
 <img src="footer.svg" width="100%" alt="Let's build something that lasts." />
