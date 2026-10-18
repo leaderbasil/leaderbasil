@@ -1,53 +1,57 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=170&section=header&text=Basil%20Hazem%20Ayyad&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20AI%20Agents&descSize=18&descAlignY=60" width="100%" alt="Basil Hazem Ayyad" />
+<img src="hero.svg" width="100%" alt="Basil Hazem Ayyad, Backend, AI Agents, ERP Systems" />
 
-<a href="https://github.com/leaderbasil">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=1E90FF&center=true&vCenter=true&width=520&lines=Backend+systems+and+REST+APIs;AI+agents+in+real+products;ERP+platforms+from+scratch;Web%2C+desktop%2C+and+mobile+clients" alt="Typing intro" />
-</a>
+<br>
+
+<a href="https://linkedin.com/in/basilhazemayyad"><img src="https://img.shields.io/badge/LinkedIn-Connect-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:leaderbasil@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://polarisx.obsidianlabs.space/"><img src="https://img.shields.io/badge/PolarisX-Explore-0a2150?style=for-the-badge&logo=rocket&logoColor=white" alt="PolarisX" /></a>
+
+<img src="divider.svg" width="100%" alt="" />
 
 </div>
 
-<br>
+## About
 
-I design and build backend systems, and the web, desktop, and mobile clients around them. My interest is in backend architecture, AI agents, and how large ERP products are structured.
+I am a software engineer who enjoys the part of a product you never see: the APIs, data models, and services that decide whether it holds up under real use. I design backends in Python, and I build the web, desktop, and mobile clients that sit on top of them.
 
-<br>
+Most of my work revolves around ERP systems. I spend time studying how the leading products in the market are structured and what makes them work for real businesses, then apply those lessons to the systems I build.
 
-### Selected work
-
-**[PolarisX](https://polarisx.obsidianlabs.space/)** &nbsp;·&nbsp; A custom ERP platform with desktop and mobile apps. Download it and explore the features on the site.
-
-**[Arjan](https://arjan-demo.netlify.app/#/)** &nbsp;·&nbsp; A smart health clinic platform with AI document analysis and a DICOM viewer. Open the live demo.
-
-<br>
-
-### Tools
+I am also drawn to AI agents, and I prefer putting AI inside real workflows rather than around them, like reading medical documents or supporting decisions at the moment they are made.
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,js,ts,dart,cpp,fastapi,react,electron,flutter,postgres,mysql,git,postman&perline=13" alt="Tools" />
-
+<img src="divider.svg" width="100%" alt="" />
 </div>
 
-<br>
+## Selected work
 
-### Currently learning
+<div align="center">
+<a href="https://polarisx.obsidianlabs.space/"><img src="polarisx.svg" width="49%" alt="PolarisX, a custom ERP platform" /></a>
+<a href="https://arjan-demo.netlify.app/#/"><img src="arjan.svg" width="49%" alt="Arjan, a smart clinic platform" /></a>
+</div>
+
+<div align="center">
+<img src="divider.svg" width="100%" alt="" />
+</div>
+
+## Tools I work with
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,js,ts,dart,cpp,fastapi,react,electron,flutter,postgres,mysql,git,postman&perline=13" alt="Tools" />
+</div>
+
+## Currently learning
 
 Go, Echo, C#, and .NET
 
-<br>
-
 <div align="center">
+<img src="divider.svg" width="100%" alt="" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=leaderbasil&show_icons=true&theme=transparent&title_color=1E90FF&icon_color=1E90FF&text_color=808080&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaderbasil&layout=compact&theme=transparent&title_color=1E90FF&text_color=808080&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=leaderbasil&show_icons=true&hide_border=true&bg_color=0a1228&title_color=1E90FF&icon_color=1E90FF&text_color=cdd9f5" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaderbasil&layout=compact&hide_border=true&bg_color=0a1228&title_color=1E90FF&text_color=cdd9f5" alt="Top languages" />
 
 <br><br>
 
-<a href="https://linkedin.com/in/basilhazemayyad"><img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:leaderbasil@gmail.com"><img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=90&section=footer" width="100%" alt="" />
-
+<img src="footer.svg" width="100%" alt="Let's build something that lasts." />
 </div>
