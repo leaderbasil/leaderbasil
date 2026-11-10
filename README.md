@@ -31,6 +31,10 @@
 
 <a href="https://github.com/leaderbasil/ripple"><img src="ripple.svg" width="98%" alt="RIPPLE, an incremental build analysis engine in C++" /></a>
 
+<br>
+
+<a href="https://github.com/leaderbasil/SentinelNet"><img src="sentinelnet.svg" width="98%" alt="SentinelNet, a Wi-Fi network attack detector in Python" /></a>
+
 <img src="divider.svg" width="100%" alt="" />
 
 <h2>Tools I work with</h2>
