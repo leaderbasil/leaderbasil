@@ -5,6 +5,7 @@
 <br>
 <br>
 
+<a href="https://leaderbasil.github.io/profilo/"><img src="https://img.shields.io/badge/Website-Portfolio-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://linkedin.com/in/basilhazemayyad"><img src="https://img.shields.io/badge/LinkedIn-Connect-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:leaderbasil@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
