@@ -36,6 +36,10 @@
 
 <a href="https://github.com/leaderbasil/SentinelNet"><img src="sentinelnet.svg" width="98%" alt="SentinelNet, a Wi-Fi network attack detector in Python" /></a>
 
+<br>
+
+<a href="https://github.com/leaderbasil/ORVIA"><img src="orvia.svg" width="98%" alt="ORVIA, an Arabic-first point of sale and inventory system" /></a>
+
 <img src="divider.svg" width="100%" alt="" />
 
 <h2>Tools I work with</h2>
