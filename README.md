@@ -25,8 +25,11 @@
 
 <h2>Selected work</h2>
 
-<a href="https://polarisx.obsidianlabs.space/"><img src="polarisx.svg" width="49%" alt="PolarisX, a custom ERP platform" /></a>
-<a href="https://arjan-demo.netlify.app/#/"><img src="arjan.svg" width="49%" alt="Arjan, a smart clinic platform" /></a>
+<a href="https://polarisx.obsidianlabs.space/"><img src="polarisx.svg" width="98%" alt="PolarisX, a custom ERP platform" /></a>
+
+<br>
+
+<a href="https://arjan-demo.netlify.app/#/"><img src="arjan.svg" width="98%" alt="Arjan, a smart clinic platform" /></a>
 
 <br>
 
@@ -38,7 +41,7 @@
 
 <br>
 
-<a href="https://github.com/leaderbasil/ORVIA"><img src="orvia.svg" width="98%" alt="ORVIA, an Arabic-first point of sale and inventory system" /></a>
+<a href="https://orvia-pos.netlify.app/"><img src="orvia.svg" width="98%" alt="ORVIA, a grocery point of sale and inventory system" /></a>
 
 <img src="divider.svg" width="100%" alt="" />
 
